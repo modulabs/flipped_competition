@@ -14,7 +14,8 @@
 
 
 ### Baseline codes
-* 정원석 [모두의연구소 CTRL 랩장](https://github.com/modulabs-ctrl) 님 께서 만들어주신 베이스라인 코드
+* 정원석 (모두의연구소 CTRL 랩장)님 께서 만들어주신 베이스라인 코드
+  * [CTRL github](https://github.com/modulabs-ctrl)
   * CTRL 베이스라인 : 
   [https://github.com/modulabs-ctrl/supermario](https://github.com/modulabs-ctrl/supermario)
   *  베이스라인 + 코랩으로 학습 + 강화학습 전반적인 설명 + 마리오 학습:

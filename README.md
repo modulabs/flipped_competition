@@ -1,6 +1,8 @@
 # Modulab's Competitions
 
 ## Challenge fashion
+[Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist)을 이용한 classification 대회
+* 이번에는 열리지 않습니다.
 
 
 ## Challenge Super Mario

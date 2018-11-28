@@ -16,4 +16,6 @@
 
 
 ## Baseline
-[Sentence classification by MorphConv.ipynb](https://nbviewer.jupyter.org/github/modulabs/flipped_competition/blob/master/challenge_nsmc/Sentence%20classification%20by%20MorphConv.ipynb)
+* 김보섭(모두의연구소 풀잎스쿨 퍼실 및 DLC 2기 참여)님 께서 만들어주신 베이스라인 코드
+  * [개인홈페이지](https://aisolab.github.io)
+  * [Sentence classification by MorphConv.ipynb](https://nbviewer.jupyter.org/github/modulabs/flipped_competition/blob/master/challenge_nsmc/Sentence%20classification%20by%20MorphConv.ipynb)
